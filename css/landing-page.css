@@ -135,6 +135,13 @@ h6 {
     margin-top: 0;
 }
 
+.contact-email {
+    font-size: 20px;
+    letter-spacing: 5px;
+    vertical-align: middle;
+    padding-right: 20px;
+}
+
 @media(max-width:1199px) {
     ul.banner-social-buttons {
         float: left;
